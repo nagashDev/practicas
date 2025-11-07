@@ -1,0 +1,6 @@
+mascota = """
+
+╝
+"""
+
+print (mascota)
